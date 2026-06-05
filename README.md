@@ -1,8 +1,21 @@
-# Shriraj Tomar
+# Hi, I'm Shriraj.
 
-Product Manager focused on fraud prevention, Trust & Safety, and AI-native risk systems. 6+ years building detection platforms, risk engines, and automated enforcement at scale.
+I build fraud prevention, Trust & Safety, and marketplace integrity systems — from detection pipelines and investigation tooling to enforcement strategy at scale.
+
+Over the last 6+ years I've worked across fintech, e-commerce, and marketplace platforms — reducing fraud losses, improving detection coverage, and building programs that hold up under adversarial pressure.
 
 📍 Dallas, TX &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/shrirajt) &nbsp;|&nbsp; tshriraj@outlook.com
+
+---
+
+## Current focus
+
+- AI-native fraud detection
+- Graph-based abuse detection & fraud ring analysis
+- Fintech & payments fraud
+- Fraud investigations & case management
+- Marketplace integrity & seller/buyer trust
+- Trust & Safety systems
 
 ---
 
@@ -21,18 +34,21 @@ Product Manager focused on fraud prevention, Trust & Safety, and AI-native risk 
 
 | Project | What it does |
 |---|---|
-| [FraudSense](https://github.com/tshriraj-del/fraudsense) | LLM-powered fraud investigation copilot for analysts |
-| [RuleBreaker](https://github.com/tshriraj-del/rulebreaker) | Adversarial stress-tester for fraud detection rules |
-| [Synthetic ID Lab](https://github.com/tshriraj-del/syntheticid-lab) | AI threat simulator for identity verification flows |
+| [RedWing Fraud OS](https://github.com/tshriraj-del/redwing-fraud-os) | Unified fraud detection command center — real-time ML scoring, rule factory, network graph, RedWing Intelligence |
+| [RedWing Operator](https://github.com/tshriraj-del/redwing-operator) | FastAPI backend — ML engine, rule factory pipeline, LLM proxy, Integration Hub with 15 agency connectors |
+| [FraudSense](https://github.com/tshriraj-del/fraudsense) | LLM-powered fraud investigation copilot — 4-stage AI pipeline from risk scoring to recommended action |
+| [RuleBreaker](https://github.com/tshriraj-del/rulebreaker) | Adversarial stress-tester for fraud detection rules — surfaces detection gaps before production |
+| [SyntheticID Lab](https://github.com/tshriraj-del/syntheticid-lab) | AI threat simulator — models identity fraud attacks, maps detection gaps, feeds training signal into Rule Factory |
+| [SAR Writer](https://github.com/tshriraj-del/sar-writer) | FinCEN Form 111 SAR narrative generator for BSA/AML compliance |
 
 ---
 
 ## Skills
 
-**AI/ML:** LLM product design, RAG systems, agentic workflows, prompt engineering, LangChain, FAISS, XGBoost, SHAP  
-**Risk & Fraud:** Risk engine design, real-time decisioning, graph-based detection, chargeback management  
+**Fraud & Risk:** Risk engine design, real-time decisioning, graph-based detection, AML/BSA compliance, chargeback management  
+**AI/ML:** LLM product design, RAG systems, agentic workflows, XGBoost, SHAP, prompt engineering  
 **Data:** SQL, A/B testing, ML model evaluation, threshold tuning  
-**Tools:** Databricks, Cursor, GPT-4
+**Tools:** Databricks, FastAPI, React
 
 ---
 
